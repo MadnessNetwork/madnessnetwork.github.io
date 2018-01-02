@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madness Network</title>
+    <link>madnessnetwork.github.io/</link>
+    <description>Recent content on Madness Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 31 Dec 2017 21:03:30 +0100</lastBuildDate>
+    
+	<atom:link href="madnessnetwork.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>madnessnetwork.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 31 Dec 2017 21:03:30 +0100</pubDate>
+      
+      <guid>madnessnetwork.github.io/posts/my-first-post/</guid>
+      <description>Dies ist ein Test</description>
+    </item>
+    
+  </channel>
+</rss>
